@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "home": "Home",
+    "portalName": "Sampati Bibaran Portal"
+  },
+  "home": {
+    "title": "Current Ministers of Nepal",
+    "subtitle": "Asset declarations of the Council of Ministers",
+    "searchPlaceholder": "Search by name or ministry...",
+    "filterByPosition": "Filter by position"
+  },
+  "minister": {
+    "ministry": "Ministry",
+    "position": "Position",
+    "viewProfile": "View Asset Details",
+    "totalAssets": "Estimated Total Assets"
+  },
+  "assets": {
+    "title": "Asset Breakdown",
+    "land": "Land & Property",
+    "bank": "Bank Balance",
+    "gold": "Gold",
+    "gold_silver": "Gold & Silver",
+    "investments": "Investments",
+    "vehicles": "Vehicles",
+    "other": "Other Assets",
+    "noData": "No data available for this section"
+  },
+  "common": {
+    "back": "Back to List",
+    "loading": "Loading details...",
+    "language": "🇳🇵 नेपाली"
+  }
+}

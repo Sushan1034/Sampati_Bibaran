@@ -1,0 +1,649 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "en": "Balendra Shah",
+      "np": "बालेन्द्र शाह"
+    },
+    "position": {
+      "en": "Prime Minister",
+      "np": "प्रधानमन्त्री"
+    },
+    "ministry": {
+      "en": "Office of the Prime Minister and Council of Ministers",
+      "np": "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_official_portrait_of_Balendra_Shah%2C_the_Prime_Minister_of_Federal_Democratic_Republic_of_Nepal.png/500px-The_official_portrait_of_Balendra_Shah%2C_the_Prime_Minister_of_Federal_Democratic_Republic_of_Nepal.png",
+    "assets": {
+      "total_estimated": "Not specified",
+      "property": [
+        { "location": "Kathmandu", "area": "5 Aana", "source": "Mother's name (Dhurba Devi Shah / धुव्र देवि शाह)" },
+        { "location": "Dhanusa", "area": "1.2 Bigha", "source": "Mother's name (Dhurba Devi Shah / धुव्र देवि शाह)" }
+      ],
+      "land": [
+        { "location": "Mahottari", "area": "9 Bigha", "source": "Father's name (बुबाको नाममा)" }
+      ],
+      "bank_balance": [
+        { "bank": "Not specified", "amount": "1,46,00,000", "currency": "NPR" }
+      ],
+      "gold_silver": {
+        "jewelry": "190 Tola (Wife's name - Sabina Kafle / पत्नी सविना काफ्लेको नाममा)",
+        "gold_valuation": "रु. 5 करोड 64 लाख",
+        "market_valuation": "रु. 5 करोड 64 लाख",
+        "market_valuation_note": "प्रधानमन्त्रीको विवरणमा १९० तोला 'गरगहना' उल्लेख गरिएको छ (सुन, चाँदी वा हिरा स्पष्ट नभएको), तर मूल्य निर्धारण गर्दा सुनको मूल्यलाई नै आधार बनाइएको छ।"
+      },
+      "investments": [],
+      "vehicles": []
+    }
+  },
+  {
+    "id": "2",
+    "name": {
+      "en": "Swarnim Wagle",
+      "np": "स्वर्णिम वाग्ले"
+    },
+    "position": {
+      "en": "Finance Minister",
+      "np": "अर्थमन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Finance",
+      "np": "अर्थ मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Swarnim_Wagle%2C_official_portrait_%282026%29.jpg/500px-Swarnim_Wagle%2C_official_portrait_%282026%29.jpg",
+    "assets": {
+      "total_estimated": "Not specified",
+      "property": [
+        { "location": "Lalitpur Apartment", "area": "1284 SQ. FT" },
+        { "location": "Lalitpur Bhaisepati" },
+        { "location": "Dhulikhel" },
+        { "location": "Tanahun" }
+      ],
+      "land": [
+        { 
+          "location": "Kathmandu, Chitwan, Gorkha, Tanahun (काठमाडौँ, चितवन, गोरखा र तनहुँमा)", 
+          "area": "17 Ropani and 5 Kattha (१७ रोपनी र पाँच कट्ठा)",
+          "source": "Father and own name (बुवा र आफ्नो नाममा)"
+        }
+      ],
+      "bank_balance": [
+        { "bank": "Not specified", "amount": "1,90,00,000", "currency": "NPR" }
+      ],
+      "gold_silver": {
+        "jewelry": "45 Tola",
+        "gold_valuation": "रु. 1 करोड 33 लाख",
+        "market_valuation": "रु. 1 करोड 33 लाख"
+      },
+      "debt": "3,55,00,000",
+      "investments": [],
+      "vehicles": []
+    }
+  },
+  {
+    "id": "3",
+    "name": {
+      "en": "Shishir Khanal",
+      "np": "शिशिर खनाल"
+    },
+    "position": {
+      "en": "Foreign Minister",
+      "np": "परराष्ट्रमन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Foreign Affairs",
+      "np": "परराष्ट्र मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Shishir_Khanal%2C_official_portrait_%282026%29.jpg/500px-Shishir_Khanal%2C_official_portrait_%282026%29.jpg",
+    "assets": {
+      "total_estimated": "Not specified",
+      "land": [
+        { "location": "Tokha", "area": "6 Aana", "source": "Surya Bhakta Khanal's Name" },
+        { "location": "Tanahun", "area": "15 Ropani", "source": "Surya Bhakta Khanal's Name" },
+        { "location": "Purwa Nawalpur", "area": "13 Ropani", "source": "Surya Bhakta Khanal's Name" },
+        { "location": "Nepalgunj", "area": "2 Kattha", "source": "Surya Bhakta Khanal's Name" }
+      ],
+      "property": [
+        { "location": "Tokha-10", "source": "Surya's Name" }
+      ],
+      "bank_balance": [
+        { "bank": "Not specified", "amount": "13,00,000", "currency": "NPR" }
+      ],
+      "cash": "10,00,000",
+      "gold_silver": {
+        "gold": "22 Tola",
+        "silver": "25 Tola",
+        "gold_valuation": "रु. 65.3 लाख",
+        "silver_valuation": "रु. 1.2 लाख",
+        "market_valuation": "रु. 66.5 लाख"
+      },
+      "debt": "75,00,000",
+      "investments": [],
+      "vehicles": []
+    }
+  },
+  {
+    "id": "4",
+    "name": {
+      "en": "Biraj Bhakta Shrestha",
+      "np": "बिराज भक्त श्रेष्ठ"
+    },
+    "position": {
+      "en": "Energy Minister",
+      "np": "ऊर्जामन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Energy, Water Resources and Irrigation",
+      "np": "ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Biraj_Bhakta_Shrestha.jpg/500px-Biraj_Bhakta_Shrestha.jpg",
+    "assets": {
+      "total_estimated": "Not specified",
+      "property": [
+        { "location": "Kathmandu", "area": "2 Aana", "source": "Own Name (आफ्नै नाममा)" },
+        { "location": "Kathmandu", "area": "4 Aana", "source": "Bikash Shrestha's Name (बिकाश श्रेष्ठको नाममा)" }
+      ],
+      "gold_silver": {
+        "gold": "15 Tola",
+        "silver": "50 Tola",
+        "gold_valuation": "रु. 44.5 लाख",
+        "silver_valuation": "रु. 2.45 लाख",
+        "market_valuation": "रु. 46.95 लाख"
+      },
+      "bank_balance": [
+        { "amount": "79,00,000", "currency": "NPR", "bank": "Not specified" }
+      ],
+      "investments": [],
+      "vehicles": []
+    }
+  },
+  {
+    "id": "5",
+    "name": {
+      "en": "Sudan Gurung",
+      "np": "सुदन गुरुङ"
+    },
+    "position": {
+      "en": "Home Minister",
+      "np": "गृहमन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Home Affairs",
+      "np": "गृह मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sudhan_Gurung%2C_official_portrait_%282026%29.jpg/500px-Sudhan_Gurung%2C_official_portrait_%282026%29.jpg",
+    "assets": {
+      "total_estimated": "Not specified",
+      "land": [
+        { "location": "Dhankuta (धनकुटा)", "area": "19 Ropani 15 Aana", "source": "Personal Name (व्यक्तिगत नाममा)" },
+        { "location": "Chitwan (चितवन)", "area": "30 Kattha", "source": "Father Dil Bahadur Gurung (पिता दिलबहादुर गुरुङ)" },
+        { "location": "Gorkha (Chumanubri)", "area": "221 Ropani", "source": "Grandfather Ramsal Gurung (बाजे रामसल गुरुङ)" }
+      ],
+      "gold_silver": {
+        "gold": "89 Tola",
+        "silver": "514 Tola",
+        "gold_valuation": "रु. 2 करोड 64 लाख",
+        "silver_valuation": "रु. 25.18 लाख",
+        "market_valuation": "रु. 2 करोड 89.18 लाख"
+      },
+      "bank_balance": [
+        { "amount": "61,00,000", "currency": "NPR", "bank": "Not specified" }
+      ],
+      "investments": [],
+      "vehicles": []
+    }
+  },
+  {
+    "id": "6",
+    "name": {
+      "en": "Sunil Lamsal",
+      "np": "सुनील लम्साल"
+    },
+    "position": {
+      "en": "Infrastructure Minister",
+      "np": "भौतिक पूर्वाधार मन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Physical Infrastructure and Transport",
+      "np": "भौतिक पूर्वाधार तथा यातायात मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sunil_Lamsal%2C_official_portrait_%282026%29.jpg/500px-Sunil_Lamsal%2C_official_portrait_%282026%29.jpg",
+    "assets": {
+      "total_estimated": "Not specified",
+      "land": [
+        { "location": "N/A", "area": "10 Kattha 15 Dhur", "source": "Jamuna Lamsal (जमुना लम्साल)" },
+        { "location": "Syangja (स्याङ्जा)", "area": "7 Ropani field, 22 Ropani terrace", "source": "Bodharaj Lamsal (बोधराज लम्साल)" }
+      ],
+      "property": [
+        { "location": "Tilottama (तिलोत्तमा)", "area": "1 Kattha 10 Dhur" }
+      ],
+      "gold_silver": {
+        "gold": "30 Tola",
+        "silver": "50 Tola",
+        "gold_valuation": "रु. 89.1 लाख",
+        "silver_valuation": "रु. 2.45 लाख",
+        "market_valuation": "रु. 91.55 लाख"
+      },
+      "bank_balance": [
+        { "amount": "90,00,000", "currency": "NPR", "bank": "Not specified" }
+      ],
+      "investments": [],
+      "vehicles": []
+    }
+  },
+  {
+    "id": "7",
+    "name": {
+      "en": "Sobita Gautam",
+      "np": "सोबिता गौतम"
+    },
+    "position": {
+      "en": "Law Minister",
+      "np": "कानुन मन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Law, Justice and Parliamentary Affairs",
+      "np": "कानुन, न्याय तथा संसदीय मामिला मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sobita_Gautam%2C_official_portrait_%282025%29.jpg/500px-Sobita_Gautam%2C_official_portrait_%282025%29.jpg",
+    "assets": {
+      "total_estimated": "Not specified",
+      "property": [
+        { "location": "House", "source": "Husband Grihendra Ghimire (श्रीमान गृहेन्द्र घिमिरे)" },
+        { "location": "House", "source": "Mother-in-law Krishna Devi Ghimire (सासु-आमा कृष्ण देवी घिमिरे)" }
+      ],
+      "gold_silver": {
+        "gold": "15 Tola",
+        "silver": "9 Tola",
+        "hira": "1 Tola Hira (Diamond)",
+        "gold_valuation": "रु. 44.45 लाख",
+        "silver_valuation": "रु. 0.441 लाख",
+        "market_valuation": "रु. 44.891 लाख"
+      },
+      "bank_balance": [
+        { "amount": "10.5 Lakhs", "currency": "NPR", "bank": "Not specified" }
+      ],
+      "investments": [],
+      "vehicles": []
+    }
+  },
+  {
+    "id": "8",
+    "name": {
+      "en": "Sita Badi",
+      "np": "सीता वादी"
+    },
+    "position": {
+      "en": "Minister for Women, Children, and Senior Citizens",
+      "np": "महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Women, Children and Senior Citizens",
+      "np": "महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sita_Badi.jpg/500px-Sita_Badi.jpg",
+    "assets": {
+      "property": [
+        { "location": "Budhanilkantha", "source": "Ancestral (पुर्ख्यौली)" }
+      ],
+      "land": [
+        { "location": "Surkhet (सुर्खेतमा)", "area": "84.65 Sq. Meter (८४.६५ वर्गमिटर)" },
+        { "location": "Nuwakot (नुवाकोटमा)", "source": "Husband Suresh Purkuti (पति सुरेश पुर्कुटीको नाममा)" }
+      ],
+      "bank_balance": [
+        { "amount": "15,00,000", "currency": "NPR", "bank": "Not specified", "source": "Own and Husband's name" }
+      ],
+      "gold_silver": {
+        "gold": "18 Tola",
+        "silver": "15 Tola",
+        "gold_valuation": "रु. 53.4 लाख",
+        "silver_valuation": "रु. 0.735 लाख",
+        "market_valuation": "रु. 54.135 लाख"
+      }
+    }
+  },
+  {
+    "id": "9",
+    "name": {
+      "en": "Pratibha Rawal",
+      "np": "प्रतिभा रावल"
+    },
+    "position": {
+      "en": "General Administration Minister",
+      "np": "सङ्घीय मामिला तथा सामान्य प्रशासन मन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Federal Affairs and General Administration",
+      "np": "सङ्घीय मामिला तथा सामान्य प्रशासन मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Pratibha_Rawal%2C_official_portrait_%282026%29.png/500px-Pratibha_Rawal%2C_official_portrait_%282026%29.png",
+    "assets": {
+      "land": [
+        { "location": "Kathmandu", "source": "Own Name" },
+        { "location": "Kailali", "source": "Own Name" }
+      ],
+      "bank_balance": [
+        { "amount": "24,70,000", "currency": "NPR", "bank": "Not specified", "source": "Husband (श्रीमान)" }
+      ],
+      "gold_silver": {
+        "gold": "25 Tola",
+        "gold_valuation": "रु. 74.17 लाख",
+        "market_valuation": "रु. 74.17 लाख"
+      }
+    }
+  },
+  {
+    "id": "10",
+    "name": {
+      "en": "Nisha Mehta",
+      "np": "निशा मेहता"
+    },
+    "position": {
+      "en": "Health Minister",
+      "np": "स्वास्थ्य मन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Health and Population",
+      "np": "स्वास्थ्य तथा जनसंख्या मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nisha_Mehta_%28cropped%29.jpg/500px-Nisha_Mehta_%28cropped%29.jpg",
+    "assets": {
+      "property": [
+        { "location": "Not specified", "source": "In-laws' name (सासु-ससुराको नाममा)" }
+      ],
+      "land": [
+        { "location": "Kathmandu-2" },
+        { "location": "Mahottari", "source": "In-laws' name (सासु-ससुराको नाममा)" }
+      ],
+      "bank_balance": [
+        { "amount": "8,23,000", "currency": "NPR", "bank": "Not specified" }
+      ],
+      "gold_silver": {
+        "gold": "30 Tola",
+        "silver": "50 Tola",
+        "other": "1 Diamond Ring",
+        "gold_valuation": "रु. 89 लाख",
+        "silver_valuation": "रु. 2.45 लाख",
+        "market_valuation": "रु. 91.45 लाख"
+      }
+    }
+  },
+  {
+    "id": "11",
+    "name": {
+      "en": "Sasmit Pokharel",
+      "np": "सस्मित पोखरेल"
+    },
+    "position": {
+      "en": "Education Minister",
+      "np": "शिक्षा मन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Education, Science and Technology",
+      "np": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sasmitportrait1.jpg/500px-Sasmitportrait1.jpg",
+    "assets": {
+      "property": [
+        {
+          "location": "Kathmandu 4, 6",
+          "source": "Mother Minakshi Ojha Pokharel's name (आमा मिनाक्षी ओझा पोखरेल नाममा)"
+        }
+      ],
+      "land": [
+        {
+          "location": "Kathmandu, Morang",
+          "source": "Ramesh Kumar Pokharel's name (रमेशकुमार पोखरेल नाममा)"
+        },
+        {
+          "location": "Kathmandu, Lalitpur",
+          "source": "Minakshi Ojha Pokharel's name (मिनाक्षी ओझा पोखरेल नाममा)"
+        },
+        {
+          "location": "Lalitpur",
+          "source": "Family's name (परिवारको नाममा)"
+        }
+      ],
+      "bank_balance": [
+        {
+          "amount": "4,40,000",
+          "currency": "NPR"
+        }
+      ],
+      "gold_silver": {
+        "gold": "25 Tola",
+        "silver": "100 Tola",
+        "gold_valuation": "रु. 74.17 लाख",
+        "silver_valuation": "रु. 4.9 लाख",
+        "market_valuation": "रु. 79.07 लाख"
+      }
+    }
+  },
+  {
+    "id": "12",
+    "name": {
+      "en": "Khadak Paudel",
+      "np": "खडक पौडेल"
+    },
+    "position": {
+      "en": "Tourism Minister",
+      "np": "पर्यटन मन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Culture, Tourism and Civil Aviation",
+      "np": "संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Khadak_Raj_Paudel_official.jpg",
+    "assets": {
+      "property": [
+        {
+          "location": "Pokhara 14",
+          "area": "908.24 Sq. Meter (वर्ग मिटर)",
+          "source": "Santoshi Sharma (Sister-in-law) / सन्तोषी शर्मा (भाउजु)"
+        }
+      ],
+      "land": [
+        {
+          "location": "Pokhara 14",
+          "details": "3 places (३ ठाउँ जग्गा)",
+          "source": "Mother's name (आमाको नाममा)"
+        }
+      ],
+      "bank_balance": [
+        {
+          "amount": "22,00,000",
+          "currency": "NPR"
+        }
+      ],
+      "gold_silver": {
+        "gold": "11 Tola",
+        "silver": "5 Tola",
+        "gold_valuation": "रु. 32.63 लाख",
+        "silver_valuation": "रु. 0.245 लाख",
+        "market_valuation": "रु. 32.875 लाख"
+      }
+    }
+  },
+  {
+    "id": "13",
+    "name": {
+      "en": "Bikram Timalsina",
+      "np": "विक्रम तिमल्सिना"
+    },
+    "position": {
+      "en": "Communication Minister",
+      "np": "सञ्चार मन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Communication and Information Technology",
+      "np": "सञ्चार तथा सूचना प्रविधि मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Official_Portrait_of_Bikram_Timilsina.jpg/500px-Official_Portrait_of_Bikram_Timilsina.jpg",
+    "assets": {
+      "property": [
+        {
+          "location": "Kathmandu",
+          "source": "Manju Gaire's name (मञ्जुगैरेको नाममा)"
+        }
+      ],
+      "land": [
+        {
+          "location": "Kathmandu",
+          "source": "Manju Gaire's name (मञ्जुगैरेको नाममा)"
+        }
+      ],
+      "bank_balance": [
+        {
+          "amount": "10,34,000",
+          "currency": "NPR"
+        }
+      ],
+      "gold_silver": {
+        "gold": "6 Tola",
+        "silver": "10 Tola",
+        "gold_valuation": "रु. 17.80 लाख",
+        "silver_valuation": "रु. 0.49 लाख",
+        "market_valuation": "रु. 18.29 लाख"
+      }
+    }
+  },
+  {
+    "id": "14",
+    "name": {
+      "en": "Geeta Chaudhary",
+      "np": "गीता चौधरी"
+    },
+    "position": {
+      "en": "Agriculture Minister",
+      "np": "कृषि मन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Agriculture and Livestock Development",
+      "np": "कृषि तथा पशुपन्छी विकास मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gita_Chaudhary%2C_portrait_%282026%29.jpg/500px-Gita_Chaudhary%2C_portrait_%282026%29.jpg",
+    "assets": {
+      "land": [
+        {
+          "location": "Bardiya",
+          "source": "Own Name"
+        },
+        {
+          "location": "Rupandehi",
+          "source": "Sunil Chaudhary's Name"
+        }
+      ],
+      "bank_balance": [
+        {
+          "amount": "1,26,000",
+          "currency": "NPR"
+        }
+      ],
+      "gold_silver": {
+        "gold": "5 Tola",
+        "silver": "100 Tola",
+        "gold_valuation": "रु. 14.83 लाख",
+        "silver_valuation": "रु. 4.90 लाख",
+        "market_valuation": "रु. 19.73 लाख"
+      }
+    }
+  },
+    {
+    "id": "15",
+    "name": {
+      "en": "Gauri Kumari Yadav",
+      "np": "गौरी कुमारी यादव"
+    },
+    "position": {
+      "en": "Industry Minister",
+      "np": "उद्योग मन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Industry, Commerce and Supplies",
+      "np": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gauri_Kumari.jpg/500px-Gauri_Kumari.jpg",
+    "assets": {
+      "property": [
+        {
+          "location": "Kathmandu",
+          "source": "Own Name"
+        }
+      ],
+      "land": [
+        {
+          "location": "Kathmandu",
+          "details": "3 Property Land",
+          "source": "Own Name"
+        },
+        {
+          "location": "Mohattari",
+          "details": "4 Property Land",
+          "source": "Own Name"
+        }
+      ],
+      "bank_balance": [
+        {
+          "amount": "10,00,000",
+          "currency": "NPR"
+        }
+      ],
+      "gold_silver": {
+        "gold": "180 Tola",
+        "silver": "171 Tola",
+        "other": "2 Diamond Ring",
+        "gold_valuation": "रु. 5.34 करोड",
+        "silver_valuation": "रु. 8.37 लाख",
+        "market_valuation": "रु. 5 करोड 42.37 लाख"
+      }
+    }
+  },
+  {
+    "id": "16",
+    "name": {
+      "en": "Ramjee Yadav",
+      "np": "रामजी यादव"
+    },
+    "position": {
+      "en": "Labour Minister",
+      "np": "श्रम मन्त्री"
+    },
+    "ministry": {
+      "en": "Ministry of Labour, Employment and Social Security",
+      "np": "श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्रालय"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ramjee_Yadav.jpg/500px-Ramjee_Yadav.jpg",
+    "assets": {
+      "property": [
+        {
+          "location": "Saptari",
+          "source": "Own Name"
+        }
+      ],
+      "land": [
+        {
+          "location": "Saptari",
+          "details": "3 Land",
+          "source": "Own Name"
+        },
+        {
+          "location": "Saptari",
+          "source": "Kajal Kumari Yadav's Name"
+        }
+      ],
+      "bank_balance": [
+        {
+          "amount": "70,00,000",
+          "currency": "NPR",
+          "source": "Kajal Kumari Yadav's Name"
+        }
+      ],
+      "gold_silver": {
+        "gold": "70 Tola",
+        "silver": "150 Tola",
+        "gold_valuation": "रु. 2 करोड",
+        "silver_valuation": "रु. 7.35 लाख",
+        "market_valuation": "रु. 2 करोड 7.35 लाख"
+      }
+    }
+  }
+]
